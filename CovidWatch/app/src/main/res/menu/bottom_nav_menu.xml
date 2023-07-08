@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homePage"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/trackCovid"
+        android:title="Track Covid"
+        android:icon="@drawable/ic_track_covid"/>
+    <item
+        android:id="@+id/covidCheck"
+        android:title="Covid Check"
+        android:icon="@drawable/ic_covid_check"/>
+    <item
+        android:id="@+id/checkIn"
+        android:title="Check In"
+        android:icon="@drawable/ic_check_in"/>
+</menu>
